@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "2015 reading list"
+date:   2016-12-31 19:28:48 +0800
+categories: blog
+---
+
+2015年眼看就这么过去了，想总结点什么也无从下手，只能说这是一年见识更大世界的一年（也可能是因为之前太土）。
+
+年初的时候打算一周看一本书，坚持了两三个月。 后面因为忙这忙那的就没坚持下来。
+
+书单上搞定的也就这几本。
+
+- The Hard Thing About Hard Things                                        Ben Horowitz                              
+- 编程珠玑                                                                                                                                                                                                  
+- Outliers: The Story of Success                                          Malcolm Gladwell                          
+- The Tipping Point                                                       Malcolm Gladwell                          
+- Taming The Big Data Tidal Wave                                          Bill Franks                               
+- 超越金融                                                                    乔治·索罗斯                                    
+- Fifty Shades of Grey                                                    E L 詹姆絲(E L James)                        
+- 聪明的投资者                                                                   Benjamin Graham                          
+- 暗时间                                                                     刘未鹏                                       
+- The Second Machine Age: Work, Progress, and Prosperity in a Time of     Erik Brynjolfsson, Andrew McAfee          
+- 硅谷之火                                                                    迈克尔·斯韦因                                   
+- case in point                                                           Marc P. Cosentino                         
+- 删除：大数据取舍之道                                                              （英）维克托·迈尔-舍恩伯格                            
+- 大数据时代                                                                   （英）维克托·迈尔-舍恩伯格                            
+- 2001太空漫游                                                                阿瑟.克拉克                          
+
+下半年因为越来越觉得技术上需要学的东西太多，也就停下看民科的书了，毕竟还是要靠技术吃饭的。
+
+开始在港大上班了，也算是一种不同的人生体会吧。 将来想起来或许会很有趣。
+
+越来越不会写东西了。
+
+talk is cheap
+
+希望新年能有好运。
