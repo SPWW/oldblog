@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "way of C++"
+title:  "learn C++"
 date:   2016-01-16 15:28:48 +0800
 categories: blog
 ---
