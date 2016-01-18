@@ -6,9 +6,9 @@ permalink: /Reading/
 
 #2016
 
-|date|title|author|rank|
-|:------:|:--------------------------------------|:----------------|:---:|
-|01/18|The Royal Game|Stefan Zweig|3|
+|date    |title             |author      |rank |
+|--------|------------------|------------|-----|
+|01/18   |**The Royal Game**|Stefan Zweig|3    |
 
 
 
