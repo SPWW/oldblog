@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "new year"
+date:   2016-02-12
+categories: blog
+---
+
+虽然日历翻到2016年已经是快两个月前的事，但是在中国，完整意义上的新年要在春节之后才算起。
+
+so,happy new year to myself.
+
