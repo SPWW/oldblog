@@ -17,3 +17,4 @@ permalink: /Reading/
 |05/04   |**苏菲的世界**        |乔斯坦·贾德       |3    |
 |06/23   |**鱼羊野史 第一卷**        |高晓松       |3    |
 |06/24   |**Zero to one**        |Peter Thiel       |4    |
+|06/25   |**The Inner Game of Tennis**        |Gallwey, W. Timothy       |3    |
