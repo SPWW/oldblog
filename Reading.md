@@ -18,3 +18,4 @@ permalink: /Reading/
 |06/23   |**鱼羊野史 第一卷**        |高晓松       |3    |
 |06/24   |**Zero to one**        |Peter Thiel       |4    |
 |06/25   |**The Inner Game of Tennis**        |Gallwey, W. Timothy       |3    |
+|07/04   |**精进：如何成为一个很厉害的人**        |采铜       |3    |
